@@ -1,0 +1,1 @@
+This is a shell script project that I tried to create
